@@ -1,15 +1,5 @@
 # desafio-nasa
-Desafio NASA Semantix
-
-Intro
-------
-Prezado candidato
-
-Gostaríamos de fazer um teste que será usado para sabermos a sua proficiência nas habilidades para a vaga. O teste
-consiste em algumas perguntas e exercícios práticos sobre Spark e as respostas e códigos implementados devem ser
-armazenados no GitHub. O link do seu repositório deve ser compartilhado conosco ao final do teste.
-Quando usar alguma referência ou biblioteca externa, informe no arquivo README do seu projeto. Se tiver alguma
-dúvida, use o bom senso e se precisar deixe isso registrado na documentação do projeto
+Desafio NASA
 
 Perguntas
 ------
